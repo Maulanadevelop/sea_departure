@@ -11,7 +11,6 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>maul</h1>
     <div class="row">
       <div class="col"></div>
       <div class="col"></div>
