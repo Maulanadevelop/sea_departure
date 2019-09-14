@@ -22,6 +22,10 @@
         .border{
             border-bottom: solid 1px grey;
         }
+        .gambar{
+          width: 10px;
+          height: 10px;
+        }
     </style>
   </head>
   <body>
@@ -82,13 +86,22 @@
           Operation
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
+          <div class="btn-group dropright">
+          <a class="dropdown-item dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Action</a>
+                  <a class="dropdown-item" href="#">Another action</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="#">Something else here</a>
+          </div>
+          </div>
           <a class="dropdown-item" href="#">Another action</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="#">Something else here</a>
         </div>
       </li>
     </ul>
+  
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
@@ -116,14 +129,32 @@
             <a href="#">Recycle bin</a>
         </li>
         <li>
-            <a href="#">All site content</a>
+            <a href="#">Allc site content</a>
         </li>
     </ul>
         <div class="border-bottom"></div>
 </div>
 </div>  
 <div class="col-10">
-  shshgdshdg
+  <h1>Welcome</h1>
+  The information is exchanged on this site is integral to uniserve's global supply chain preocesses, Processes that are orchestrared across other supply chain contributors, creating a single managed joined up view of the supply chain.
+
+<br><br>
+  One world arives consistency,accuracy and efficiency through the supply chain business 
+</br></br>
+It is therefore imperative that data is entered accurately and in a timely maner.
+<br><br><br>
+The following sub-sites have been created for exchanging related informtion
+</br></br></br>
+<img src="{{ asset('image/download.png') }}" class="gambar"> <a href=".">operations</a>
+<br><br>
+These sub-sites can be accresed by selecting the item above or by first selecting the item above or by first selescting browse at the top of this page and then your 'regional tab' on the global navigation, also found at the top of this page 
+</br> </br>
+One World, One vision, One Team
+<br><br>
+For enquires and support please email the One World Support team <a href=".">oneworldsupport@ugroup.co.uk</a>
+</br></br>
+
 </div>  
 </div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
