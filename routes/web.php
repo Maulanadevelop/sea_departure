@@ -17,6 +17,12 @@ Route::get('/a', function () {
 Route::get('/b', function () {
     return view('b');
 });
+Route::get('/c', function () {
+    return view('c');
+});
+Route::get('/d', function () {
+    return view('d');
+});
 Route::get('/e', function () {
     return view('e');
 });
