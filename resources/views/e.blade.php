@@ -21,7 +21,7 @@
   </head>
   <body>
 <nav class="navbar height-50 navbar-dark bg-dark">
-  <div class="h6 a-color position-absolute mt-3">Edit</div>
+  <div class="h6 a-color position-absolute mt-3 p-2">Edit</div>
 </nav>
 <nav class="navbar navbar-light bg-light">
   <span class="navbar-brand mb-0 h1">

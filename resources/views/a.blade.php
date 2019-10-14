@@ -144,11 +144,11 @@
 </br></br>
 It is therefore imperative that data is entered accurately and in a timely maner.
 <br><br><br>
-The following sub-sites have been created for exchanging related informtion
+The following sub-sites have been created for exchanging related information
 </br></br></br>
 <img src="{{ asset('image/download.png') }}" class="gambar"> <a href=".">operations</a>
 <br><br>
-These sub-sites can be accresed by selecting the item above or by first selecting the item above or by first selescting browse at the top of this page and then your 'regional tab' on the global navigation, also found at the top of this page 
+These sub-sites can be accresed by selecting the item above or by first selecting the item above or by first selecting browse at the top of this page and then your 'regional tab' on the global navigation, also found at the top of this page 
 </br> </br>
 One World, One vision, One Team
 <br><br>
